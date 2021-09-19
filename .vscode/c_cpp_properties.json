@@ -3,6 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
+                "C:\\Users\\Anthony\\Documents\\Arduino\\libraries\\FastLED\\src",
                 "D:\\HD_Arduino\\Arduino\\tools\\**",
                 "C:\\Users\\Anthony\\Documents\\Arduino\\libraries\\**",
                 "D:\\HD_Arduino\\Arduino\\libraries\\**",
