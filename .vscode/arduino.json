@@ -1,0 +1,6 @@
+{
+    "programmer": "AVR ISP",
+    "board": "arduino:avr:uno",
+    "port": "COM6",
+    "sketch": "830TheRatPack_One_Day_Project\\830TheRatPack_One_Day_Project.ino"
+}
